@@ -1,4 +1,3 @@
-# testePetLove
 ## Teste Data Analytics Beatriz Evangelista
  
 
@@ -10,7 +9,7 @@
 
 
 ## Editor
-*Jupyter Notebook
+* Jupyter Notebook
 
 ## Services Usados
  
@@ -21,6 +20,7 @@
 ## Etapas SQL
  
 * Estrutura da tabela:
+#Script de Criação
 CREATE TABLE `petlove`.`datatest` 
 (`id` text, 
 `created_at` text, 
