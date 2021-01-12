@@ -48,9 +48,7 @@ Para inserção dos dados foi utilizado a ferramenta de importação do MySql Wo
 ## Etapas Python
  
 * Código:
-O código foi implementado por meio do Jupyter Notebook. Basta rodar o arquivo de extensão .ipynb em seu editor de preferência.
-
-No notebook você encontrará a análise exploratória de dados, bem como as queries utilizadas por meio da conexão com o banco feita através da biblioteca sqlalchemy.
+O código foi implementado por meio do Jupyter Notebook. Basta rodar o arquivo de extensão .ipynb em seu editor de preferência. No notebook você encontrará a análise exploratória de dados, bem como as queries utilizadas por meio da conexão com o banco feita através da biblioteca sqlalchemy.
  
  
 ## Apresentação.
@@ -58,14 +56,7 @@ No notebook você encontrará a análise exploratória de dados, bem como as que
   - Na apresentação será tratado o passo a passo da análise e uma sugestão de próximos passos para o time de negócio.
  
  
-
- 
-## Versioning
- 
-1.0.0.0
- 
- 
-## Authors
+## Autora
  
 * **Beatriz Vallim Cavalcanti Evangelista**: @beatrizvcevangelista (https://github.com/beatrizvcevangelista)
  
