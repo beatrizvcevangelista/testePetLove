@@ -1,9 +1,7 @@
 # testePetLove
 ## Teste Data Analytics Beatriz Evangelista
  
-... Description
- 
- 
+
 ## Technologias
  
 
